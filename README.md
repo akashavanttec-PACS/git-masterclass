@@ -5,6 +5,4 @@
 -app.js
 
 - setup & initlaize
-## git init - initalize
-## git add . - add everything
-## git log - commit id
+## git init
